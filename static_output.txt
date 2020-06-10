@@ -1,0 +1,282 @@
+Add task with id: 1, Memmory Allocation OK
+Add task with id: 2, Memmory Allocation OK
+Add task with id: 3, Memmory Allocation OK
+Add task with id: 4, Memmory Allocation OK
+Add task with id: 5, Memmory Allocation OK
+
+Tasks
+id:4, ari:0  pri: 1, com: 4, per: 36 
+id:3, ari:0  pri: 2, com: 3, per: 30 
+id:5, ari:0  pri: 3, com: 5, per: 25 
+id:2, ari:0  pri: 4, com: 2, per: 20 
+id:1, ari:0  pri: 5, com: 1, per: 7 
+
+CPU Utilization: 0.653968 
+Scheduling OK
+
+                                create task id:4, ari:0  pri: 1, com: 4, per: 36 
+                                create task id:3, ari:0  pri: 2, com: 3, per: 30 
+                                create task id:5, ari:0  pri: 3, com: 5, per: 25 
+                                create task id:2, ari:0  pri: 4, com: 2, per: 20 
+                                create task id:1, ari:0  pri: 5, com: 1, per: 7 
+t = 0
+                task: 1 running
+                task: 2 running
+                task: 2 running
+t = 0
+                task: 5 running
+                task: 5 running
+                task: 5 running
+                task: 5 running
+t = 1
+                task: 5 running
+                task: 3 running
+t = 2
+                task: 3 running
+                task: 3 running
+t = 3
+                task: 4 running
+                task: 4 running
+                task: 4 running
+t = 4
+                task: 4 running
+t = 5
+t = 6
+                task: 1 running
+t = 7
+t = 8
+t = 9
+t = 10
+t = 11
+t = 12
+t = 13
+                task: 1 running
+t = 14
+t = 15
+t = 16
+t = 17
+t = 18
+t = 19
+                task: 2 running
+                task: 2 running
+t = 20
+                task: 1 running
+t = 21
+t = 22
+t = 23
+t = 24
+t = 25
+                task: 5 running
+                task: 5 running
+t = 26
+                task: 5 running
+                task: 5 running
+t = 27
+                task: 1 running
+                task: 5 running
+t = 28
+t = 29
+t = 30
+t = 31
+                task: 3 running
+                task: 3 running
+t = 32
+                task: 3 running
+t = 33
+t = 34
+                task: 1 running
+t = 35
+t = 36
+t = 37
+t = 38
+                task: 4 running
+                task: 4 running
+t = 39
+                task: 2 running
+                task: 2 running
+t = 40
+                task: 4 running
+                task: 4 running
+t = 41
+                task: 1 running
+t = 42
+t = 43
+t = 44
+t = 45
+t = 46
+t = 47
+t = 48
+                task: 1 running
+t = 49
+t = 50
+                task: 5 running
+                task: 5 running
+t = 51
+                task: 5 running
+                task: 5 running
+t = 52
+                task: 5 running
+t = 53
+t = 54
+t = 55
+                task: 1 running
+t = 56
+t = 57
+t = 58
+t = 59
+                task: 2 running
+                task: 2 running
+t = 60
+t = 61
+                task: 3 running
+                task: 3 running
+t = 62
+                task: 1 running
+                task: 3 running
+t = 63
+t = 64
+t = 65
+t = 66
+t = 67
+t = 68
+t = 69
+                task: 1 running
+t = 70
+t = 71
+t = 72
+t = 73
+t = 74
+                task: 4 running
+                task: 4 running
+t = 75
+                task: 5 running
+                task: 5 running
+t = 76
+                task: 1 running
+                task: 5 running
+t = 77
+                task: 5 running
+                task: 5 running
+t = 78
+                task: 4 running
+                task: 4 running
+t = 79
+                task: 2 running
+                task: 2 running
+t = 80
+t = 81
+t = 82
+t = 83
+                task: 1 running
+t = 84
+t = 85
+t = 86
+t = 87
+t = 88
+t = 89
+t = 90
+                task: 1 running
+t = 91
+                task: 3 running
+                task: 3 running
+t = 92
+                task: 3 running
+t = 93
+t = 94
+t = 95
+t = 96
+t = 97
+                task: 1 running
+t = 98
+t = 99
+                task: 2 running
+                task: 2 running
+t = 100
+                task: 5 running
+                task: 5 running
+t = 101
+                task: 5 running
+t = 102
+                task: 5 running
+t = 103
+                task: 5 running
+t = 104
+                task: 1 running
+t = 105
+t = 106
+t = 107
+t = 108
+t = 109
+t = 110
+                task: 4 running
+                task: 4 running
+t = 111
+                task: 1 running
+t = 112
+                task: 4 running
+t = 113
+                task: 4 running
+t = 114
+t = 115
+t = 116
+t = 117
+t = 118
+                task: 1 running
+t = 119
+                task: 2 running
+                task: 2 running
+t = 120
+t = 121
+                task: 3 running
+                task: 3 running
+t = 122
+                task: 3 running
+t = 123
+t = 124
+t = 125
+                task: 1 running
+                task: 5 running
+t = 126
+                task: 5 running
+t = 127
+                task: 5 running
+t = 128
+                task: 5 running
+                task: 5 running
+t = 129
+t = 130
+t = 131
+t = 132
+                task: 1 running
+t = 133
+t = 134
+t = 135
+t = 136
+t = 137
+t = 138
+t = 139
+                task: 1 running
+                task: 2 running
+t = 140
+                task: 2 running
+t = 141
+t = 142
+t = 143
+t = 144
+t = 145
+t = 146
+                task: 1 running
+                task: 4 running
+t = 147
+                task: 4 running
+t = 148
+                task: 4 running
+t = 149
+                task: 4 running
+t = 150
+                                Delete task with id: 4, Memmory Deallocation OK
+                                Delete task with id: 3, Memmory Deallocation OK
+                                Delete task with id: 5, Memmory Deallocation OK
+                                Delete task with id: 2, Memmory Deallocation OK
+                                Delete task with id: 1, Memmory Deallocation OK
+

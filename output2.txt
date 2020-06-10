@@ -1,0 +1,46 @@
+Add task with id: 1, Memmory Allocation OK
+Add task with id: 2, Memmory Allocation OK
+Add task with id: 3, Memmory Allocation OK
+Add task with id: 4, Memmory Allocation OK
+Add task with id: 5, Memmory Allocation OK
+
+Tasks
+id:2, ari:7  pri: 1, com: 8, per: 72 
+id:3, ari:2  pri: 2, com: 6, per: 48 
+id:5, ari:3  pri: 3, com: 3, per: 27 
+id:1, ari:9  pri: 4, com: 1, per: 7 
+id:4, ari:4  pri: 5, com: 1, per: 6 
+
+CPU Utilization: 0.656746 
+Scheduling OK
+
+t = 0
+t = 0
+t = 1
+t = 2
+                                create task id:3, ari:2  pri: 2, com: 6, per: 48 
+                task: 3 running
+t = 4
+                                create task id:5, ari:3  pri: 3, com: 3, per: 27 
+                                create task id:4, ari:4  pri: 5, com: 1, per: 6 
+                task: 4 running
+                task: 5 running
+t = 8
+                                create task id:2, ari:7  pri: 1, com: 8, per: 72 
+                task: 2 running
+t = 11
+                                Delete task with id: 2, Memmory Deallocation OK
+                                create task id:1, ari:9  pri: 3, com: 1, per: 7 
+                task: 4 running
+                task: 1 running
+t = 14
+                                Delete task with id: 4, Memmory Deallocation OK
+t = 15
+                                Delete task with id: 5, Memmory Deallocation OK
+t = 16
+                                Delete task with id: 1, Memmory Deallocation OK
+t = 17
+t = 18
+t = 19
+                                Delete task with id: 3, Memmory Deallocation OK
+

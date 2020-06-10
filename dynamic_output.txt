@@ -1,0 +1,173 @@
+Tasks
+id:2, ari:15  pri: 1, com: 8, per: 72 
+id:3, ari:10  pri: 2, com: 6, per: 48 
+id:5, ari:11  pri: 3, com: 3, per: 27 
+id:1, ari:1  pri: 4, com: 1, per: 7 
+id:4, ari:12  pri: 5, com: 1, per: 6 
+
+CPU Utilization: 0.656746 
+Scheduling OK
+
+t = 0
+t = 0
+t = 1
+                                create task id:1, ari:1  pri: 4, com: 1, per: 7 
+                task: 1 running
+t = 3
+t = 4
+t = 5
+t = 6
+t = 7
+t = 8
+t = 9
+                task: 1 running
+t = 10
+                                create task id:3, ari:10  pri: 2, com: 6, per: 48 
+                task: 3 running
+                task: 3 running
+                task: 3 running
+t = 13
+                                create task id:5, ari:11  pri: 3, com: 3, per: 27 
+                                create task id:4, ari:12  pri: 5, com: 1, per: 6 
+                task: 4 running
+t = 17
+                                create task id:2, ari:15  pri: 1, com: 8, per: 72 
+                task: 1 running
+                task: 5 running
+t = 20
+                task: 5 running
+                task: 5 running
+t = 21
+                task: 3 running
+                task: 3 running
+t = 22
+                task: 4 running
+t = 23
+                task: 1 running
+                task: 3 running
+t = 24
+                task: 2 running
+                task: 2 running
+t = 25
+                task: 2 running
+                task: 2 running
+t = 26
+                task: 2 running
+                task: 2 running
+t = 27
+                task: 2 running
+t = 28
+                task: 4 running
+                task: 2 running
+t = 29
+t = 30
+                task: 1 running
+t = 31
+t = 32
+t = 33
+t = 34
+                task: 4 running
+t = 35
+t = 36
+t = 37
+                task: 1 running
+t = 38
+t = 39
+t = 40
+                task: 4 running
+t = 41
+t = 42
+t = 43
+t = 44
+                task: 1 running
+t = 45
+t = 46
+                task: 4 running
+                task: 5 running
+t = 47
+                task: 5 running
+                task: 5 running
+t = 48
+t = 49
+t = 50
+t = 51
+                task: 1 running
+t = 52
+                task: 4 running
+t = 53
+t = 54
+t = 55
+t = 56
+t = 57
+t = 58
+                task: 4 running
+                task: 1 running
+t = 59
+t = 60
+                task: 3 running
+                task: 3 running
+t = 61
+                task: 3 running
+                task: 3 running
+t = 62
+                task: 3 running
+                task: 3 running
+t = 63
+t = 64
+                task: 4 running
+t = 65
+                task: 1 running
+t = 66
+t = 67
+t = 68
+t = 69
+t = 70
+                task: 4 running
+t = 71
+t = 72
+                task: 1 running
+t = 73
+                task: 5 running
+                task: 5 running
+t = 74
+                task: 5 running
+t = 75
+t = 76
+                task: 4 running
+t = 77
+t = 78
+t = 79
+                task: 1 running
+t = 80
+t = 81
+t = 82
+                task: 4 running
+t = 83
+t = 84
+t = 85
+t = 86
+                task: 1 running
+t = 87
+t = 88
+                task: 4 running
+t = 89
+t = 90
+t = 91
+t = 92
+t = 93
+                                Delete task with id: 5, Memmory Deallocation OK
+                                Delete task with id: 4, Memmory Deallocation OK
+                task: 1 running
+t = 95
+t = 96
+                                Delete task with id: 3, Memmory Deallocation OK
+                task: 2 running
+t = 97
+                task: 2 running
+                task: 2 running
+t = 98
+                task: 2 running
+t = 99
+                                Delete task with id: 2, Memmory Deallocation OK
+                                Delete task with id: 1, Memmory Deallocation OK
+

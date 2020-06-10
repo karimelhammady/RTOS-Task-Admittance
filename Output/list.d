@@ -1,0 +1,10 @@
+.\output\list.o: list.c
+.\output\list.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\output\list.o: .\include\FreeRTOS.h
+.\output\list.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\output\list.o: .\include\projdefs.h
+.\output\list.o: ..\RTOS-Task-Admittance\FreeRTOSConfig.h
+.\output\list.o: .\include\portable.h
+.\output\list.o: .\portable\RVDS\ARM_CM3\portmacro.h
+.\output\list.o: .\include\mpu_wrappers.h
+.\output\list.o: .\include\list.h

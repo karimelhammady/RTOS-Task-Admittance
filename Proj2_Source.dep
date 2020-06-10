@@ -1,0 +1,83 @@
+Dependencies for Project 'Proj2', Target 'Source': (DO NOT MODIFY !)
+F (.\portable\RVDS\ARM_CM3\port.c)(0x4D00F422)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\RTOS-Task-Admittance -I.\include -I.\portable\RVDS\ARM_CM3 -I.\demo_code-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary-o .\output\port.o --omf_browse .\output\port.crf --depend .\output\port.d)
+I (.\include\FreeRTOS.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (.\include\projdefs.h)(0x4CFA1710)
+I (..\RTOS-Task-Admittance\FreeRTOSConfig.h)(0x5EBD589B)
+I (.\include\portable.h)(0x4CFA1710)
+I (.\portable\RVDS\ARM_CM3\portmacro.h)(0x4CFA1710)
+I (.\include\mpu_wrappers.h)(0x4CFA1710)
+I (.\include\task.h)(0x4CFA1710)
+I (.\include\list.h)(0x4CFA1710)
+F (.\list.c)(0x4D00F248)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\RTOS-Task-Admittance -I.\include -I.\portable\RVDS\ARM_CM3 -I.\demo_code-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary-o .\output\list.o --omf_browse .\output\list.crf --depend .\output\list.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (.\include\FreeRTOS.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (.\include\projdefs.h)(0x4CFA1710)
+I (..\RTOS-Task-Admittance\FreeRTOSConfig.h)(0x5EBD589B)
+I (.\include\portable.h)(0x4CFA1710)
+I (.\portable\RVDS\ARM_CM3\portmacro.h)(0x4CFA1710)
+I (.\include\mpu_wrappers.h)(0x4CFA1710)
+I (.\include\list.h)(0x4CFA1710)
+F (.\queue.c)(0x4D00F24E)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\RTOS-Task-Admittance -I.\include -I.\portable\RVDS\ARM_CM3 -I.\demo_code-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary-o .\output\queue.o --omf_browse .\output\queue.crf --depend .\output\queue.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (.\include\FreeRTOS.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (.\include\projdefs.h)(0x4CFA1710)
+I (..\RTOS-Task-Admittance\FreeRTOSConfig.h)(0x5EBD589B)
+I (.\include\portable.h)(0x4CFA1710)
+I (.\portable\RVDS\ARM_CM3\portmacro.h)(0x4CFA1710)
+I (.\include\mpu_wrappers.h)(0x4CFA1710)
+I (.\include\task.h)(0x4CFA1710)
+I (.\include\list.h)(0x4CFA1710)
+I (.\include\croutine.h)(0x4CFA1710)
+F (.\tasks.c)(0x4D00F258)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\RTOS-Task-Admittance -I.\include -I.\portable\RVDS\ARM_CM3 -I.\demo_code-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary-o .\output\tasks.o --omf_browse .\output\tasks.crf --depend .\output\tasks.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (.\include\FreeRTOS.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (.\include\projdefs.h)(0x4CFA1710)
+I (..\RTOS-Task-Admittance\FreeRTOSConfig.h)(0x5EBD589B)
+I (.\include\portable.h)(0x4CFA1710)
+I (.\portable\RVDS\ARM_CM3\portmacro.h)(0x4CFA1710)
+I (.\include\mpu_wrappers.h)(0x4CFA1710)
+I (.\include\task.h)(0x4CFA1710)
+I (.\include\list.h)(0x4CFA1710)
+I (.\include\StackMacros.h)(0x4CFA1710)
+F (.\portable\MemMang\heap_2.c)(0x4C9B4BBC)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\RTOS-Task-Admittance -I.\include -I.\portable\RVDS\ARM_CM3 -I.\demo_code-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary-o .\output\heap_2.o --omf_browse .\output\heap_2.crf --depend .\output\heap_2.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (.\include\FreeRTOS.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (.\include\projdefs.h)(0x4CFA1710)
+I (..\RTOS-Task-Admittance\FreeRTOSConfig.h)(0x5EBD589B)
+I (.\include\portable.h)(0x4CFA1710)
+I (.\portable\RVDS\ARM_CM3\portmacro.h)(0x4CFA1710)
+I (.\include\mpu_wrappers.h)(0x4CFA1710)
+I (.\include\task.h)(0x4CFA1710)
+I (.\include\list.h)(0x4CFA1710)
+F (.\main.c)(0x5EBD5FC5)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\RTOS-Task-Admittance -I.\include -I.\portable\RVDS\ARM_CM3 -I.\demo_code-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (.\include\FreeRTOS.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (.\include\projdefs.h)(0x4CFA1710)
+I (..\RTOS-Task-Admittance\FreeRTOSConfig.h)(0x5EBD589B)
+I (.\include\portable.h)(0x4CFA1710)
+I (.\portable\RVDS\ARM_CM3\portmacro.h)(0x4CFA1710)
+I (.\include\mpu_wrappers.h)(0x4CFA1710)
+I (.\include\task.h)(0x4CFA1710)
+I (.\include\list.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+F (.\demo_code\basic_io.c)(0x4D02166E)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\RTOS-Task-Admittance -I.\include -I.\portable\RVDS\ARM_CM3 -I.\demo_code-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary-o .\output\basic_io.o --omf_browse .\output\basic_io.crf --depend .\output\basic_io.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (.\include\FreeRTOS.h)(0x4CFA1710)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (.\include\projdefs.h)(0x4CFA1710)
+I (..\RTOS-Task-Admittance\FreeRTOSConfig.h)(0x5EBD589B)
+I (.\include\portable.h)(0x4CFA1710)
+I (.\portable\RVDS\ARM_CM3\portmacro.h)(0x4CFA1710)
+I (.\include\mpu_wrappers.h)(0x4CFA1710)
+I (.\include\task.h)(0x4CFA1710)
+I (.\include\list.h)(0x4CFA1710)
+F (.\startup_MPS_CM3.s)(0x5EBD4492)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\Luminary--list .\startup_mps_cm3.lst --xref -o .\output\startup_mps_cm3.o --depend .\output\startup_mps_cm3.d)

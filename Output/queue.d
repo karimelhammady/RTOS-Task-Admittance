@@ -1,0 +1,13 @@
+.\output\queue.o: queue.c
+.\output\queue.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\output\queue.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\output\queue.o: .\include\FreeRTOS.h
+.\output\queue.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\output\queue.o: .\include\projdefs.h
+.\output\queue.o: ..\RTOS-Task-Admittance\FreeRTOSConfig.h
+.\output\queue.o: .\include\portable.h
+.\output\queue.o: .\portable\RVDS\ARM_CM3\portmacro.h
+.\output\queue.o: .\include\mpu_wrappers.h
+.\output\queue.o: .\include\task.h
+.\output\queue.o: .\include\list.h
+.\output\queue.o: .\include\croutine.h

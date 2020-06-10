@@ -1,0 +1,10 @@
+.\output\port.o: portable\RVDS\ARM_CM3\port.c
+.\output\port.o: .\include\FreeRTOS.h
+.\output\port.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\output\port.o: .\include\projdefs.h
+.\output\port.o: ..\RTOS-Task-Admittance\FreeRTOSConfig.h
+.\output\port.o: .\include\portable.h
+.\output\port.o: .\portable\RVDS\ARM_CM3\portmacro.h
+.\output\port.o: .\include\mpu_wrappers.h
+.\output\port.o: .\include\task.h
+.\output\port.o: .\include\list.h
